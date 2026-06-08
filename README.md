@@ -98,11 +98,11 @@ Routes to: ✅ Auto-Post | 🔍 Review | ⚠️ Manual | ❌ Unapplied
 | Processing Time | <5 sec | 2.3 sec |
 | False Positives | <1% | 0.3% |
 
-## Upgrade Path
+## Upcoming Features
 
-**Phase 1 (3mo):** OCR + LayoutLM for document parsing, train XGBoost model  
-**Phase 2 (6mo):** LLM-powered memo parsing, customer segmentation, deduction detection  
-**Phase 3 (12mo):** Real-time cash forecasting, payment behavior prediction  
+** 1 :** OCR + LayoutLM for document parsing, train XGBoost model  
+** 2 :** LLM-powered memo parsing, customer segmentation, deduction detection  
+** 3 :** Real-time cash forecasting, payment behavior prediction  
 
 ## Getting Started
 
